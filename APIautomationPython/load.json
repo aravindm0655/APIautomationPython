@@ -1,0 +1,31 @@
+
+{
+    "organizationName": "arvi10",
+    "subDomain": "arvi10",
+    "companyCategory": "IT",
+    "logoPath": "https://hrms-poc.s3.eu-west-1.amazonaws.com/test-company2.svg",
+    "active": true,
+    "orgAddress": "dfdfsdf",
+    "orgPincode": "34545",
+    "orgCountry": 9,
+    "orgState": null,
+    "orgCity": null,
+    "primary": {
+        "firstName": "ram",
+        "lastName": "kumar",
+        "phone": "+91333543245",
+        "designation": "CEO",
+        "role": 1,
+        "email": "newsws41@mailinator.com",
+        "address": "123 Main Street",
+        "country": 9,
+        "state": null,
+        "city": null,
+        "pincode": "dsdsd",
+        "isPrimary": 1
+    },
+    "packages": [
+        1
+    ]
+}
+ 
